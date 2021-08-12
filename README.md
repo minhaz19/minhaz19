@@ -52,3 +52,16 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+<img width="550px" alt="Minhazul Abedin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=minhaz19&show_icons=true"/>
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz19&card_width=550)](https://github.com/minhaz19)
+
+
+[programming]: https://www.programming-hero.com/
+[website]: https://minhaz-portfolio-beta.firebaseapp.com/
+[linkedin]: https://www.linkedin.com/in/minhaz19/
+[webdevplaylist]: https://minhaz-portfolio-beta.firebaseapp.com/
+[jsplaylist]: https://minhaz-portfolio-beta.firebaseapp.com/
+[cssplaylist]: https://minhaz-portfolio-beta.firebaseapp.com/
+[reactplaylist]: https://minhaz-portfolio-beta.firebaseapp.com/
+
