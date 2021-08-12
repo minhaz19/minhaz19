@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+### I'm a web developer and javaScript lover
+</hr>
 
 - 🔭 I’m currently working on a MERN stack project
 - 🌱 I’m currently learning React Native and TypeScript
