@@ -1,4 +1,4 @@
-### Hi there I'm Minhaz[https://minhaz-portfolio-beta.firebaseapp.com/]👋
+### Hi there I'm [Minhaz](https://minhaz-portfolio-beta.firebaseapp.com/)👋
 
 <!--
 **minhaz19/minhaz19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
