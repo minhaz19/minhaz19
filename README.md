@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<h3>Hi, I'm Minhazul Abedin, a passionate self-taught web developer from Bangladesh.
+<h3>Hi, I'm Minhazul Abedin, a passionate self-taught web developer from Bangladesh.</h3>
 - 🔭 I’m currently working on a MERN stack project
 - 🌱 I’m currently learning React Native and TypeScript
 <!-- - 👯 I’m looking to collaborate on ... -->
