@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about React
 <!-- - 📫 How to reach me: ... -->
-- 🥅 2022 Goals: GrapQL, VueJS and solve more and more online judge problem 
+- 🥅 2023 Goals: React Native and solve more and more online judge problem 
 - ⚡ Fun fact: I have a plan to start a new startup
 
 ### :coffee: &emsp;Connect with me:
