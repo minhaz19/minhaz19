@@ -7,12 +7,7 @@ Here are some ideas to get you started:
 -->
 ### I'm a web developer and javaScript lover
 </hr>
-
-- 🔭 I’m currently working on a MERN stack project
-- 🌱 I’m currently learning React Native and TypeScript
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about React
+- 💬 Ask me about React/ React Native
 <!-- - 📫 How to reach me: ... -->
 - 🥅 2023 Goals: React Native and solve more and more online judge problem 
 - ⚡ Fun fact: I have a plan to start a new startup
