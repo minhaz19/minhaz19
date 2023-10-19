@@ -8,9 +8,6 @@ Here are some ideas to get you started:
 ### I'm a web developer and javaScript lover
 </hr>
 - 💬 Ask me about React/ React Native <br />
-<!-- - 📫 How to reach me: ... -->
-- 🥅 2023 Goals: React Native and solve more and more online judge problem <br />
-- ⚡ Fun fact: I have a plan to start a new startup <br />
 
 ### :coffee: &emsp;Connect with me:
 
