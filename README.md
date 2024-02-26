@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz19&card_width=550)](https://github.com/minhaz19)
-
 [website]: https://www.minhazulabedin.me/
 [linkedin]: https://www.linkedin.com/in/minhaz19/
 
