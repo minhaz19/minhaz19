@@ -5,8 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-### I am a software engineer specializing in Mobile(React Native) and Front-end development, particularly using React, React Native, JavaScript and TypeScript.
+### I am a software engineer specializing in Mobile(React Native) and Front-end development, particularly using React, React Native, JavaScript, and TypeScript.
 </hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaz19&label=Profile%20views&color=brightgreen&style=flat" alt="minhaz19" />
+
 - 💬 Ask me about React/ React Native. <br />
 - 🏄‍ Community guy who loves being involved in communities and help students grow. <br />
 - 🔭 I’m currently working on merchandising app for Unilever and Nagad. <br />
