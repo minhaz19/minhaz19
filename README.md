@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about React/ React Native. <br />
 - 🏄‍ Community guy who loves being involved in communities and help students grow. <br />
 - 🔭 I’m currently working on merchandising app for Unilever and Nagad. <br />
-- 🌱 I’m currently learning Dart and Flutter. <br />
+- 🌱 I’m currently learning Kotlin. <br />
 
 
 ### :coffee: &emsp;Connect with me:
