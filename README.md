@@ -1,29 +1,50 @@
-# Hi there, I'm [Minhazul Abedin][website]👋
+<h1 align="center">Minhazul Abedin</h1>
+<h3 align="center">Senior React Native Engineer · React & Next.js · Building offline-first & real-time systems</h3>
 
-<!--
-**minhaz19/minhaz19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I build production mobile apps with React Native — offline-first sync, geospatial/GIS tracking, and lately, real-time voice/AI agents (LiveKit, WebRTC, LLM orchestration).
+</p>
 
-Here are some ideas to get you started:
--->
-### I am a software engineer specializing in Mobile(React Native) and Front-end development, particularly using React, React Native, JavaScript, and TypeScript.
-</hr>
+<p align="center">
+  <a href="https://new-portfolio-lemon-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/minhaz19/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:minhazulabedin44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 💬 Ask me about React/ React Native. <br />
-- 🏄‍ Community guy who loves being involved in communities and help students grow. <br />
-- 🌱 I’m currently learning Kotlin. <br />
+---
 
+### 🚀 Currently
 
-### :coffee: &emsp;Connect with me:
+- Senior React Native Engineer at **HawkEyes Digital Monitoring**, working on field-ready, offline-first, geospatial/GIS mobile apps
+- Building an **AI voice agent system** for appointment booking — LiveKit Agents, Cartesia STT/TTS, Claude, WebRTC, React Native client
+- Open to **remote / contract React Native & AI-integration roles**
+- Freelancing on Upwork & Fiverr, owning features end-to-end for international clients
 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhazulabedin44@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhaz19/)
+### 🧰 Stack
 
+| Area | Tools |
+|---|---|
+| Mobile | `React Native`, `Expo`, `TypeScript`, offline-first architecture, native modules (Android) |
+| Frontend | `React`, `Next.js`, `Redux`, `Tailwind CSS` |
+| Backend | `Node.js`, `Express.js`, `MongoDB`, `GraphQL` |
+| Real-time / AI | `LiveKit`, `WebRTC`, `Claude / LLM orchestration`, voice STT/TTS pipelines |
+| Other | Geospatial/GIS integration, Git, VS Code |
 
-### Languages and Tools:
+### 📌 Selected work
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![React Native Badge](https://img.shields.io/badge/-React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Redux Badge](https://img.shields.io/badge/-REDUX-B361FA?style=for-the-badge&labelColor=white&logo=redux&logoColor=B361FA)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)[![Tailwind CSS Badge](https://img.shields.io/badge/-TAILWIND_CSS-61DBFB?style=for-the-badge&labelColor=white&logo=tailwindcss&logoColor=61DBFB)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+- **[react-native-computer-vision](https://github.com/minhaz19/react-native-computer-vision)** — Mobile computer-vision demo built with Expo + React Native
+- **[live-finder](https://github.com/minhaz19/live-finder)** — Location/geospatial tracking app
+- **[audio-video-conference](https://github.com/minhaz19/audio-video-conference)** — Real-time audio/video conferencing
+- **[PettyPaw](https://github.com/minhaz19/PettyPaw)** — Cross-platform mobile app
+- **[music-app](https://github.com/minhaz19/music-app)** — Media playback app in React Native
 
-<br />
+### 💬 Ask me about
 
-[website]: https://www.minhazulabedin.me/
-[linkedin]: https://www.linkedin.com/in/minhaz19/
+React Native architecture, offline-first sync strategies, geospatial/GIS mobile integration, or wiring up real-time voice/AI agents in mobile apps.
 
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minhaz19&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz19&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
