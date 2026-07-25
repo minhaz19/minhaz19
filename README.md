@@ -1,8 +1,8 @@
 <h1 align="center">Minhazul Abedin</h1>
-<h3 align="center">Senior React Native Engineer · React & Next.js · Building offline-first & real-time systems</h3>
+<h3 align="center">Software Engineer (React Native • React • Node.js)</h3>
 
 <p align="center">
-I build production mobile apps with React Native — offline-first sync, geospatial/GIS tracking, and lately, real-time voice/AI agents (LiveKit, WebRTC, LLM orchestration).
+Building cross-platform mobile apps, web frontends, and AI-powered real-time products — with a focus on offline-first architecture and geospatial systems.
 </p>
 
 <p align="center">
