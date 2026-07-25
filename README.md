@@ -1,50 +1,180 @@
-<h1 align="center">Minhazul Abedin</h1>
-<h3 align="center">Senior React Native Engineer · React & Next.js · Building offline-first & real-time systems</h3>
+<div align="center">
 
-<p align="center">
-I build production mobile apps with React Native — offline-first sync, geospatial/GIS tracking, and lately, real-time voice/AI agents (LiveKit, WebRTC, LLM orchestration).
+# Hi, I'm Minhazul Abedin 👋
+
+### Software Engineer (React Native • React • Node.js)
+
+Building scalable mobile applications, offline-first architectures, and AI-powered products.
+
+<p>
+  <a href="https://www.minhazulabedin.me">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/minhaz19/">LinkedIn</a> •
+  <a href="mailto:minhazulabedin44@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <a href="https://new-portfolio-lemon-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/minhaz19/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:minhazulabedin44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+![](https://komarev.com/ghpvc/?username=minhaz19&style=flat-square)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineer with **4+ years of experience** building production-grade applications using **React Native**, **React**, **Next.js**, and **Node.js**.
+
+I've worked on enterprise platforms for **Unilever**, **BAT Bangladesh**, **Nagad**, healthcare startups, and marketplace products—focusing on scalable architecture, offline-first systems, real-time communication, AI integrations, and performance optimization.
+
+Currently expanding my mobile engineering expertise by learning **Native Android Development with Kotlin**.
+
+---
+
+## 🚀 What I Build
+
+- 📱 Cross-platform Mobile Applications
+- ⚛️ React & Next.js Web Applications
+- 🚀 Node.js Backend APIs
+- 📡 Offline-first Sync Engines
+- 🤖 AI-powered Mobile Experiences
+- 🎙️ Voice & Audio Applications
+- 🔄 Real-time Apps (Socket.io & WebRTC)
+- 🏗 Scalable Mobile Architecture
+- ⚡ Performance Optimization
+- 🚀 CI/CD with Expo EAS
+
+---
+
+# 🏆 Featured Projects
+
+## 🏥 Hospital Voice Agent
+
+> AI-powered bilingual medical receptionist.
+
+**Tech**
+
+React Native • Node.js • LiveKit • WebRTC • Gemini • TypeScript
+
+### Highlights
+
+- 600–900ms voice response latency
+- Live audio streaming
+- AI appointment scheduling
+- Vendor-agnostic LLM pipeline
+- Full-stack TypeScript monorepo
+
+---
+
+## 📈 M-Lens
+
+Enterprise AI-powered field force platform developed at HawkEyes for Unilever.
+
+### Highlights
+
+- Offline-first architecture
+- AI photo verification
+- Visit tracking
+- Material management
+- Attendance
+- Intelligent reporting
+- Automatic offline data synchronization
+- Enterprise-scale deployment
+
+---
+
+## 📚 Puthika
+
+Production Bengali Audiobook Platform.
+
+### Highlights
+
+- Audio streaming
+- Resume playback
+- Global mini player
+- Payment integration
+- Performance optimization
+- Production issue resolution
+
+---
+
+# 💼 Experience Highlights
+
+- Senior React Native Engineer @ HawkEyes Digital Monitoring Ltd.
+- Built enterprise applications for Unilever, BAT Bangladesh & Nagad.
+- Led development of offline-first mobile systems.
+- Built AI-powered healthcare voice applications.
+- Mentored junior engineers and conducted code reviews.
+- Delivered production apps used by thousands of field representatives.
+
+---
+
+# 🛠 Tech Stack
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio,apple" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman" />
 </p>
 
 ---
 
-### 🚀 Currently
+# 🌱 Currently Learning
 
-- Senior React Native Engineer at **HawkEyes Digital Monitoring**, working on field-ready, offline-first, geospatial/GIS mobile apps
-- Building an **AI voice agent system** for appointment booking — LiveKit Agents, Cartesia STT/TTS, Claude, WebRTC, React Native client
-- Open to **remote / contract React Native & AI-integration roles**
-- Freelancing on Upwork & Fiverr, owning features end-to-end for international clients
+- Native Android Development
+- Kotlin
+- Jetpack Compose
+- Android Architecture Components
 
-### 🧰 Stack
+---
 
-| Area | Tools |
-|---|---|
-| Mobile | `React Native`, `Expo`, `TypeScript`, offline-first architecture, native modules (Android) |
-| Frontend | `React`, `Next.js`, `Redux`, `Tailwind CSS` |
-| Backend | `Node.js`, `Express.js`, `MongoDB`, `GraphQL` |
-| Real-time / AI | `LiveKit`, `WebRTC`, `Claude / LLM orchestration`, voice STT/TTS pipelines |
-| Other | Geospatial/GIS integration, Git, VS Code |
-
-### 📌 Selected work
-
-- **[react-native-computer-vision](https://github.com/minhaz19/react-native-computer-vision)** — Mobile computer-vision demo built with Expo + React Native
-- **[live-finder](https://github.com/minhaz19/live-finder)** — Location/geospatial tracking app
-- **[audio-video-conference](https://github.com/minhaz19/audio-video-conference)** — Real-time audio/video conferencing
-- **[PettyPaw](https://github.com/minhaz19/PettyPaw)** — Cross-platform mobile app
-- **[music-app](https://github.com/minhaz19/music-app)** — Media playback app in React Native
-
-### 💬 Ask me about
-
-React Native architecture, offline-first sync strategies, geospatial/GIS mobile integration, or wiring up real-time voice/AI agents in mobile apps.
-
-<br/>
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhaz19&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz19&layout=compact&theme=transparent&hide_border=true" height="165" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhaz19&show_icons=true&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=minhaz19&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz19&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+minhazulabedin44@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/minhaz19
+
+🌐 **Portfolio**
+
+https://www.minhazulabedin.me
+
+---
+
+> *"Building software that remains reliable when networks fail, scales when users grow, and stays maintainable as products evolve."*
