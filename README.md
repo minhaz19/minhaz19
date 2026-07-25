@@ -22,13 +22,16 @@ Building cross-platform mobile apps, web frontends, and AI-powered real-time pro
 
 ### 🧰 Stack
 
-| Area | Tools |
-|---|---|
-| Mobile | `React Native`, `Expo`, `TypeScript`, offline-first architecture, native modules (Android) |
-| Frontend | `React`, `Next.js`, `Redux`, `Tailwind CSS` |
-| Backend | `Node.js`, `Express.js`, `MongoDB`, `GraphQL` |
-| Real-time / AI | `LiveKit`, `WebRTC`, `Claude / LLM orchestration`, voice STT/TTS pipelines |
-| Other | Geospatial/GIS integration, Git, VS Code |
+| Area             | Tools                                                                                    |
+| ---------------- | ---------------------------------------------------------------------------------------- |
+| Mobile           | `React Native`, `Expo`, `TypeScript`, Offline-first Architecture, Android Native Modules |
+| Frontend         | `React`, `Next.js`, `Tailwind CSS`                                                       |
+| State Management | `Redux`, `Zustand`                                                                       |
+| Backend          | `Node.js`, `Express.js`, `MongoDB`, REST APIs                                            |
+| Real-time / AI   | `LiveKit`, `WebRTC`, Claude / LLM Orchestration, STT/TTS Voice Pipelines                 |
+| Architecture     | Offline Sync, Geospatial / GIS Integration                                               |
+| Developer Tools  | `Git`, `VS Code`, `Android Studio`, `Xcode`                                              |
+
 
 ### 💬 Ask me about
 
