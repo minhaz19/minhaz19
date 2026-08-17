@@ -17,7 +17,7 @@ Building cross-platform mobile apps, web frontends, and AI-powered real-time pro
 
 - Senior React Native Engineer at **HawkEyes Digital Monitoring**, working on field-ready, offline-first, geospatial/GIS mobile apps
 - Building an **AI voice agent system** for appointment booking — LiveKit Agents, Cartesia STT/TTS, Claude, WebRTC, React Native client
-- Open to **remote / contract React Native & AI-integration roles**
+- Open to **remote / contract React Native, FrontEnd(React, Next) & AI-integration roles**
 - Freelancing on Upwork & Fiverr, owning features end-to-end for international clients
 
 ### 🧰 Stack
